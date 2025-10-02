@@ -1,5 +1,5 @@
-@nestjs/common - 10.0.0
-@mui/material - 5.14.5
-mongoose
-lodash
-@reduxjs/toolkit
+@test2/test3 - 0.0.0
+@test3/test3 - 5.14.5
+test4
+test5
+@test6/test7
